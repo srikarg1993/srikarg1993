@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Srikar Gunisetty
-- 👀 I’m interested in Data Science - ML - NLP
-- 🌱 I’m currently pursuing a Masters in Business Analytics & Data Science
+- 👋 Hi, My name Srikar Gunisetty
+- 👀 I’m interested in Data Science Enthusiast currently pursuing a Masters in Business Analytics & Data Science
 - 💞️ I’m looking to collaborate on Data Science - ML Projects
 - 📫 You can reach me at srikarg.1993@gmail.com
 
