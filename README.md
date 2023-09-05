@@ -44,7 +44,7 @@ Welcome to my GitHub page, where I bridge the gap between engineering precision 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikarg1993)](https://github.com/anuraghazra/github-readme-stats)
+[![Srikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikarg1993&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
