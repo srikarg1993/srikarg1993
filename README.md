@@ -1,4 +1,4 @@
-## 👋 Structural Engineer turned Data Wizard 🏗️🔮
+## 👋 Engineer turned Data Wizard 🏗️🔮
 
 Formerly, I built buildings that connected physical worlds. Now, I've traded in my hard hat for a keyboard and transitioned into the thrill of connecting data points and generating insights. With 6 years of experience as a licensed structural engineer in the LA area, I've embarked on a new adventure as a data scientist and machine learning enthusiast.
 
