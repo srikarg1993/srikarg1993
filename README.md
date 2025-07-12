@@ -1,8 +1,6 @@
-## 👋 Engineer turned Data Wizard 🏗️🔮
+## 👋 AI Enthusiast 🏗️🔮
 
-Formerly, I built buildings that connected physical worlds. Now, I've traded in my hard hat for a keyboard and transitioned into the thrill of connecting data points and generating insights. With 6 years of experience as a licensed structural engineer in the LA area, I've embarked on a new adventure as a data scientist and machine learning enthusiast.
-
-Welcome to my GitHub page, where I bridge the gap between engineering precision and data-driven innovation. Join me as I code my way through the digital landscape, transforming raw data into actionable intelligence. Let's build a data-driven future, one line of code at a time!
+Principal Data Scientist with 8+ years of experience in credit risk, marketing analytics, business intelligence & consulting. Proven track record of driving impact through machine learning, data engineering & executive-facing insights. Sounds like someone you are looking for? Let's connect at srikarg.1993@gmail.com and discuss the next steps :)
 
 ### Socials:
 
